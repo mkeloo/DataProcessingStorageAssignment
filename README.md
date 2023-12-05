@@ -1,4 +1,4 @@
-# DataProcessingStorageAssignment
+# Data Processing Storage Assignment
 
 ## In-Memory Database with Transaction Support (Java Implementation)
 
